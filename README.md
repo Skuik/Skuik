@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Skuik
 - 👀 I’m interested in Music, Cinema, Gaming and Coding
 - 🌱 I’m currently learning Django and Javascript
-- 💞️ I’m looking to collaborate on every good idea
+- 💞️ I’m looking to collaborate on every good ideas
 - 📫 How to reach me ...
 
 <!---
